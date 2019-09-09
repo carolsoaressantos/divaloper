@@ -42,8 +42,8 @@ const LandingBio = () => (
         <Container>
           <NameHeader>{data.site.siteMetadata.title}</NameHeader>
           <br></br>
-          <Description>Front end, palestrante, atual estudante de Elixir.
-          Podcaster no Lovelace, fã de open source, café, star wars e meme.</Description>
+          <Description>Front end, palestrante, atual estudante de Elixir.</Description>
+          <Description>Podcaster no Lovelace, fã de open source, café, star wars e meme.</Description>
         </Container>
       </OuterContainer>
     )}
