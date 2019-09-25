@@ -7,7 +7,7 @@
 
 import React from "react"
 import PropTypes from "prop-types"
-import { StaticQuery, graphql } from "gatsby"
+import { StaticQuery, graphql, Link } from "gatsby"
 import styled from "@emotion/styled"
 
 import Header from "./header"
@@ -46,9 +46,9 @@ const Layout = ({ children }) => (
         <Content>
           <main>{children}</main>
           <Footer>
-            © {new Date().getFullYear()}, Built with
+            [Feito com 
             {` `}
-            <GatsbyLink href="https://www.gatsbyjs.org">Gatsby</GatsbyLink>
+            <GatsbyLink href="https://www.gatsbyjs.org">GatsbyJS</GatsbyLink>, café e                                                  <Link href="https://open.spotify.com/playlist/3z7u6YQgcr54XSipHZmJFD">música</Link>]
           </Footer>
         </Content>
       </>
