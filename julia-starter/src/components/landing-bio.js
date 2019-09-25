@@ -18,7 +18,7 @@ const OuterContainer = styled.div`
 const Description = styled.p`
   padding: 0;
   margin-bottom: 1rem;
-  font-size: 1.4rem;
+  font-size: 1.2rem;
 `
 
 const NameHeader = styled.h1`
@@ -42,8 +42,7 @@ const LandingBio = () => (
         <Container>
           <NameHeader>{data.site.siteMetadata.title}</NameHeader>
           <br></br>
-          <Description>Front end, palestrante, atual estudante de Elixir.</Description>
-          <Description>Podcaster no Lovelace, fã de open source, café, star wars e meme.</Description>
+          <Description> Oi, eu sou a Carol! Front end, palestrante, atual estudante de Elixir. Tenho um podcast de tecnologia - o Lovelace, escrevo sobre programação, sou fã de open source, design, café, star wars e meme.</Description>
         </Container>
       </OuterContainer>
     )}
