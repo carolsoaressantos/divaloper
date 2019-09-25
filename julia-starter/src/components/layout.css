@@ -1,10 +1,11 @@
 code {
-  background-color: hsla(0, 0%, 0%, 0.04);
+  background-color: #ff3b3c;
 }
 
 body {
   margin: 0;
-  font-family: 'Nunito', 'Avenir', 'Helvetica', 'sans-serif';
+  background-color:mistyrose;
+  font-family: 'Roboto', 'sans-serif';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -41,7 +42,7 @@ template {
 }
 a {
   font-style: normal;
-  color: hsla(0, 0%, 0%, 0.8);
+  color:#ff3b3c;
   -webkit-text-decoration-skip: objects;
 }
 a:active,
@@ -66,8 +67,8 @@ h1 {
   margin: 0.67em 0;
 }
 mark {
-  background-color: #ff0;
-  color: #000;
+  /* background-color: #ff0; */
+  color: #ff3b3c;
 }
 small {
   font-size: 80%;
@@ -145,7 +146,7 @@ button:-moz-focusring {
   outline: 1px dotted ButtonText;
 }
 fieldset {
-  border: 1px solid silver;
+  border: 1px solid #ff3b3c;
   margin: 0 2px;
   padding: 0.35em 0.625em 0.75em;
 }
@@ -200,7 +201,7 @@ html {
   box-sizing: inherit;
 }
 body {
-  color: hsla(0, 0%, 0%, 0.8);
+  color: #ff3b3c;
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
@@ -391,7 +392,7 @@ pre {
   margin-bottom: 1.45rem;
   font-size: 0.8rem;
   line-height: 1.42;
-  background: hsla(0, 0%, 0%, 0.04);
+  background:#ff3b3c;
   border-radius: 3px;
   overflow: auto;
   word-wrap: normal;
@@ -470,7 +471,7 @@ hr {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: calc(1.45rem - 1px);
-  background: hsla(0, 0%, 0%, 0.2);
+  background:#ff3b3c;
   border: none;
   height: 1px;
 }
@@ -540,15 +541,15 @@ samp {
   line-height: 1.45rem;
 }
 abbr {
-  border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+  border-bottom: 1px dotted #ff3b3c;
   cursor: help;
 }
 acronym {
-  border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+  border-bottom: 1px dotted #ff3b3c;
   cursor: help;
 }
 abbr[title] {
-  border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+  border-bottom: 1px dotted #ff3b3c;
   cursor: help;
   text-decoration: none;
 }
@@ -558,7 +559,7 @@ thead {
 td,
 th {
   text-align: left;
-  border-bottom: 1px solid hsla(0, 0%, 0%, 0.12);
+  border-bottom: 1px solid #ff3b3c;
   font-feature-settings: "tnum";
   -moz-font-feature-settings: "tnum";
   -ms-font-feature-settings: "tnum";
@@ -578,7 +579,7 @@ td:last-child {
 }
 tt,
 code {
-  background-color: hsla(0, 0%, 0%, 0.04);
+  background-color: #ff3b3c;
   border-radius: 3px;
   font-family: "SFMono-Regular", Consolas, "Roboto Mono", "Droid Sans Mono",
     "Liberation Mono", Menlo, Courier, monospace;
@@ -604,7 +605,7 @@ pre tt:after {
   content: "";
 }
 .gatsby-highlight {
-  background-color: #1d1f21;
+  background-color: #ff3b3c;
   border-radius: 0.3em;
   margin: 0.5em 0;
   padding: 1em;
