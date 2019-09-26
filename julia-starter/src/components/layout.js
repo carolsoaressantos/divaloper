@@ -48,7 +48,7 @@ const Layout = ({ children }) => (
           <Footer>
             [Feito com 
             {` `}
-            <GatsbyLink href="https://www.gatsbyjs.org">GatsbyJS</GatsbyLink>, café e                                                  <Link href="https://open.spotify.com/playlist/3z7u6YQgcr54XSipHZmJFD">música</Link>]
+            <GatsbyLink href="https://www.gatsbyjs.org">GatsbyJS</GatsbyLink>, café e<Link href="https://open.spotify.com/playlist/3z7u6YQgcr54XSipHZmJFD">música</Link>]
           </Footer>
         </Content>
       </>
