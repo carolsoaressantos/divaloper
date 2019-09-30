@@ -1,5 +1,5 @@
 code {
-  background-color: #ff3b3c;
+  background-color: #9E0001;
 }
 
 body {
@@ -42,7 +42,7 @@ template {
 }
 a {
   font-style: normal;
-  color:#ff3b3c;
+  color:#9E0001;
   -webkit-text-decoration-skip: objects;
 }
 a:active,
@@ -68,7 +68,7 @@ h1 {
 }
 mark {
   /* background-color: #ff0; */
-  color: #ff3b3c;
+  color: #9E0001;
 }
 small {
   font-size: 80%;
@@ -146,7 +146,7 @@ button:-moz-focusring {
   outline: 1px dotted ButtonText;
 }
 fieldset {
-  border: 1px solid #ff3b3c;
+  border: 1px solid #9E0001;
   margin: 0 2px;
   padding: 0.35em 0.625em 0.75em;
 }
@@ -201,7 +201,7 @@ html {
   box-sizing: inherit;
 }
 body {
-  color: #ff3b3c;
+  color: #9E0001;
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
@@ -392,7 +392,7 @@ pre {
   margin-bottom: 1.45rem;
   font-size: 0.8rem;
   line-height: 1.42;
-  background:#ff3b3c;
+  background:#9E0001;
   border-radius: 3px;
   overflow: auto;
   word-wrap: normal;
@@ -471,7 +471,7 @@ hr {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: calc(1.45rem - 1px);
-  background:#ff3b3c;
+  background:#9E0001;
   border: none;
   height: 1px;
 }
@@ -541,15 +541,15 @@ samp {
   line-height: 1.45rem;
 }
 abbr {
-  border-bottom: 1px dotted #ff3b3c;
+  border-bottom: 1px dotted #9E0001;
   cursor: help;
 }
 acronym {
-  border-bottom: 1px dotted #ff3b3c;
+  border-bottom: 1px dotted #9E0001;
   cursor: help;
 }
 abbr[title] {
-  border-bottom: 1px dotted #ff3b3c;
+  border-bottom: 1px dotted #9E0001;
   cursor: help;
   text-decoration: none;
 }
@@ -559,7 +559,7 @@ thead {
 td,
 th {
   text-align: left;
-  border-bottom: 1px solid #ff3b3c;
+  border-bottom: 1px solid #9E0001;
   font-feature-settings: "tnum";
   -moz-font-feature-settings: "tnum";
   -ms-font-feature-settings: "tnum";
@@ -579,7 +579,7 @@ td:last-child {
 }
 tt,
 code {
-  background-color: #ff3b3c;
+  background-color: #9E0001;
   border-radius: 3px;
   font-family: "SFMono-Regular", Consolas, "Roboto Mono", "Droid Sans Mono",
     "Liberation Mono", Menlo, Courier, monospace;
@@ -605,7 +605,7 @@ pre tt:after {
   content: "";
 }
 .gatsby-highlight {
-  background-color: #ff3b3c;
+  background-color: #9E0001;
   border-radius: 0.3em;
   margin: 0.5em 0;
   padding: 1em;

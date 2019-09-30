@@ -10,7 +10,7 @@ const Content = styled.div`
 `
 
 const NavLink = styled(Link)`
-  color: #ff3b3c;
+  color: #9E0001;
   margin-left: 15px;
   text-decoration: none;
   display: inline-block;
@@ -24,7 +24,7 @@ const NavLink = styled(Link)`
     height: 2px;
     bottom: 0;
     left: 0;
-    background-color: #ff3b3c;
+    background-color: #9E0001;
     transform-origin: bottom right;
     transition: transform 0.4s cubic-bezier(0.86, 0, 0.07, 1);
   }
@@ -36,7 +36,7 @@ const NavLink = styled(Link)`
 `
 
 const GitHubLink = styled.a`
-  color: #ff3b3c;
+  color: #9E0001;
   margin-left: 15px;
   text-decoration: none;
   display: inline-block;
@@ -50,7 +50,7 @@ const GitHubLink = styled.a`
     height: 2px;
     bottom: 0;
     left: 0;
-    background-color: #ff3b3c;
+    background-color: #9E0001;
     transform-origin: bottom right;
     transition: transform 0.4s cubic-bezier(0.86, 0, 0.07, 1);
     
