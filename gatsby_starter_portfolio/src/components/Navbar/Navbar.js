@@ -20,10 +20,10 @@ export default function index() {
               <NavLink to="/">DIVALOPER</NavLink>
             </li>
             <li>
-              <NavLink to="/projects">Portfólio</NavLink>
+              <NavLink to="/projects">//Portfólio</NavLink>
             </li>
             <li>
-              <NavLink to="/blog">Blog</NavLink>
+              <NavLink to="/blog">//Blog</NavLink>
             </li>
           </ul>
         </Menu>

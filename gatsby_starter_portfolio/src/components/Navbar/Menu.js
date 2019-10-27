@@ -11,7 +11,7 @@ const Menu = styled.div`
       color: #000;
       font-weight: 700;
       font-family: "Montserrat", sans-serif;
-      border-bottom: 2px dashed #616caa;
+      border-bottom: 2px dashed #aa3967;
     }
   }
   li {
@@ -25,9 +25,9 @@ const Menu = styled.div`
     text-transform: uppercase;
     font-size: 24px;
     font-weight: 600;
-    color: #616caa;
+    color: #aa3967;
     &:hover {
-      border-bottom: 2px solid #616caa;
+      border-bottom: 2px solid #aa3967;
     }
   }
   @media (max-width: 500px) {
