@@ -10,22 +10,22 @@ import PageGrid from "../components/Responsive/PageGrid";
 const Button = styled.a`
   padding: 5px 20px;
   background: transparent;
-  border: 2px solid #616caa;
+  border: 2px solid #aa3967;
   border-radius: 5px;
   margin-right: 15px;
-  color: #616caa;
+  color: #aa3967;
   font-weight: bold;
   text-decoration: none;
   text-transform: uppercase;
   &:hover {
-    background: #616caa;
+    background: #aa3967;
     color: #fff;
   }
 `;
 
 const Item = styled.span`
   margin-right: 5px;
-  color: #616caa;
+  color: #aa3967;
   font-style: italic;
 `;
 

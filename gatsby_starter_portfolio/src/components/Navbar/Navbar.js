@@ -37,7 +37,7 @@ export default function index() {
             fontFamily: "Montserrat, sans-serif"
           }}
         >
-          <h2>MOHAN</h2>
+          <h2>Carol</h2>
         </Link>
       }
     />
