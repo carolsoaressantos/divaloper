@@ -6,33 +6,33 @@ module.exports = {
     footerLinks: [
       {
         name: "Facebook",
-        url: "https://www.facebook.com/sree.dhannu"
+        url: "https://www.facebook.com/"
       },
       {
         name: "Instagram",
-        url: "https://www.instagram.com/mohan.houseStark"
+        url: "https://www.instagram.com/carolcode"
       }
     ],
     socialLinks: [
       {
         name: "Facebook",
-        url: "https://www.facebook.com/sree.dhannu"
+        url: "https://www.facebook.com/"
       },
       {
         name: "Instagram",
-        url: "https://www.instagram.com/mohan.houseStark"
+        url: "https://www.instagram.com/carolcode"
       },
       {
         name: "Twitter",
-        url: "https://www.twitter.com/_MrNullPointer"
+        url: "https://www.twitter.com/carolcode"
       },
       {
         name: "Github",
-        url: "https://www.github.com/mohanmonu777"
+        url: "https://www.github.com/carolcodes"
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/mohanmonu777"
+        url: "https://www.linkedin.com/in/carolcode"
       }
     ]
   },
